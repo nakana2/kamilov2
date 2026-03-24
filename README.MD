@@ -1,5 +1,5 @@
 <!-- =========================================
-  JASURBEK KAMILOV • Backend & DevOps Engineer
+  Backend & DevOps Engineer
   Go • Python • TypeScript • FastAPI • NestJS
   Theme: dark-red • stable-only
 ========================================= -->
